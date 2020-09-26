@@ -1,9 +1,9 @@
 menu
     Home                [index.html]
-    Teaching			[research.html]
-	Publication         [publications.html]
-	Projects			[teaching.html]
-	Peoples				[courses.html]
+    Teaching			[teaching.html]
+	Publication         [publication.html]
+	Projects			[project.html]
+	Peoples				[people.html]
     Activities			[activities.html]
 	
 usefull links
